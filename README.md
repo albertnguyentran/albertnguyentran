@@ -10,7 +10,7 @@
 <h4> About me: </h4>
 <ul> <li> Into basketball and sneakers </li> <li> Enjoy boxing + bjj </li> <li> Just started riding motorcycles </li> </ul>
 
-### Feel free to reach out! I'm currently a full-stack dev
+### Feel free to reach out! Currently working in full-stack development
 
 [![Albert's github stats](https://github-readme-stats.vercel.app/api?username=albertnguyentran)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
 
