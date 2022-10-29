@@ -8,7 +8,7 @@
 <ul> <li> Neural Networks </li> <li> Pre-reqs for stochastic calculus </li> </ul>
 
 <h4> About me: </h4>
-<ul> <li> Into basketball and sneakers </li> <li> Enjoy boxing + bjj </li> <li> Just started riding motorcycles </li> </ul>
+<ul> <li> Into basketball and sneakers </li> <li> Enjoy boxing + bjj </li> <li> Big motorcycle/car guy </li> </ul>
 
 ### Feel free to reach out! Currently working in full-stack development
 
