@@ -5,10 +5,10 @@
 <ul> <li> Math and Computer Science </li> <li> Competitive Programming </li> </ul>
 
 <h4> Currently Learning:</h4>
-<ul> <li> Neural Networks </li> <li> Pre-reqs for stochastic calc </li> </ul>
+<ul> <li> Neural Networks </li> <li> Pre-reqs for stochastic calculus </li> </ul>
 
 <h4> About me: </h4>
-<ul> <li> I ride motorcycles </li> <li> Used to be a sneakerhead </li> <li> Enjoy boxing + bjj </li> </ul>
+<ul> <li> Into basketball and sneakers </li> <li> Enjoy boxing + bjj </li> <li> Just started riding motorcycles </li> </ul>
 
 ### Feel free to reach out! I'm currently a full-stack dev
 
