@@ -12,8 +12,6 @@
 
 ### Feel free to reach out! Currently working in full-stack development
 <div style="display:flex;flex-direction:row">
-<div>
-[![Albert's github stats](https://github-readme-stats.vercel.app/api?username=albertnguyentran)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
-</div>
+<div> [![Albert's github stats](https://github-readme-stats.vercel.app/api?username=albertnguyentran)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight) </div>
  
 </div>
