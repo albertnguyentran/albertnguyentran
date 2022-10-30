@@ -7,11 +7,13 @@
 <h4> Currently Learning:</h4>
 <ul> <li> Neural Networks </li> <li> Pre-reqs for stochastic calculus </li> </ul>
 
+<div style="display:flex;flex-direction:row">
 <h4> About me: </h4>
 <ul> <li> Into basketball and sneakers </li> <li> Enjoy boxing, muay thai, bjj </li> <li> Big car/motorcyclist </li> </ul>
+</div>
 
 ### Feel free to reach out! Currently working in full-stack development
-<div style="display:flex;flex-direction:row">
-<div> [![Albert's github stats](https://github-readme-stats.vercel.app/api?username=albertnguyentran)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight) </div>
+
+[![Albert's github stats](https://github-readme-stats.vercel.app/api?username=albertnguyentran)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight) 
  
-</div>
+
