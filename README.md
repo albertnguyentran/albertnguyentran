@@ -5,7 +5,7 @@
 <ul> <li> Math and Computer Science </li> <li> Competitive Programming </li> </ul>
 
 <h4> Currently Learning:</h4>
-<ul> <li> Neural Networks </li> <li> Pre-reqs for stochastic calculus </li> </ul>
+<ul> <li> Neural Networks </li> <li> Statistics </li> </ul>
 
 <div style="display:flex;flex-direction:row">
 <h4> About me: </h4>
