@@ -4,4 +4,4 @@
 <ul> <li> Math and Computer Science </li> <li> Competitive Programming </li> </ul>
 
 <h4> Skills</h4>
-<ul> <li> Full-stack devleopment </li> <li> Deep learning </li> </ul>
+<ul> <li> Full-stack development </li> <li> Deep learning </li> </ul>
