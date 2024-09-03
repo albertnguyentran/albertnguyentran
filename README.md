@@ -6,6 +6,7 @@ I'm currently a BASc. Systems Design Engineering student at the University of Wa
 
 <h4> Interests</h4>
 <ul> <li>Deep Learning (Computational Neuroscience, interpretability)</li>
+  <li>Backend Systems Design</li>
   <li>Competitive Programming </li>
 </ul>
 
