@@ -13,5 +13,5 @@ I'm currently a BASc. Systems Design Engineering student at the University of Wa
 <h4> Skills</h4>
 <ul> <li> Full-stack development (Python, C++, Javascript, Kotlin)</li> <li>Computer Vision (Tensorflow, Pytorch)</li> </ul>
 
-I'm currently doing research on novel methods in geolocalization and learning about operating systems and compilers. I'm also passionate about playing basketball/soccer, computers and motorcycles.
+I'm currently doing research on novel methods in geolocalization and learning about operating systems, distributed systems and compilers. I'm also passionate about playing basketball/soccer, computers and motorcycles.
 
